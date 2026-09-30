@@ -7,7 +7,7 @@ Platform ujian demo dengan 3 role (Murid, Guru, Admin), backend Pages Functions,
 - Guru: `guru01` / `123456`
 - Murid: `murid01` / `123456`
 
-**Ganti semua password demo sebelum dipakai sungguhan.** 
+**Ganti semua password demo sebelum dipakai sungguhan.**
 
 ## Struktur
 
@@ -72,4 +72,4 @@ Kamera dan screen capture hanya berjalan setelah browser memberikan izin. Jangan
 
 ## Uji lokal (opsional)
 
-Jika sudah ada Node.js dan Wrangler, gunakan Pages dev. Untuk Pages + D1 lokal, gunakan konfigurasi Wrangler dengan `preview_database_id`. Cloudflare mendokumentasikan `wrangler pages dev` untuk menjalankan asset + Functions secara lokal.
+Jika sudah ada Node.js dan Wrangler, gunakan Pages dev. Untuk Pages + D1 lokal, gunakan konfigurasi Wrangler dengan `preview_database_id`. Cloudflare mendokumentasikan `wrangler pages dev` untuk menjalankan asset + Functions secara lokal. 
